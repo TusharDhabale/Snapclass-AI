@@ -1,3 +1,3 @@
 # AI Attendance Project APP
 
-# Live :- https://snapclass-ai-vf.streamlit.app/
+# Live :- https://sc-landing-one.vercel.app/
